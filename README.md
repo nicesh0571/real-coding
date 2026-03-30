@@ -10,6 +10,7 @@
 | `working-dir/` | `.gitignore`로 로컬 작업만 (원격 미추적) |
 | `cherry-pick-demo/` | Git cherry-pick·마크다운 실습용 로컬 저장소 |
 | `202102620/` | Git & GitHub 과제 제출용 (김성현, 학번 폴더) |
+| `git-and-github-assignment/` | [2026-RealCoding 과제 저장소](https://github.com/2026-RealCoding/git-and-github-assignment) 클론본 (이슈·PR 템플릿 포함) |
 
 ## 마크다운
 
